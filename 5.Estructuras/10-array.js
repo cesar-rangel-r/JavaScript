@@ -86,7 +86,7 @@ console.log(nuwarray)
 
 //splice
 
-myArray.splice(1,3)
+myArray.splice(1,3)// el primer numero dice ehn que pocision nos vamos a ubicar,el segundo numero nos dice cuantos elemetos queremos elimirnar 
 console.log(myArray)
 
 myArray=["cesar","rangel","junior",20,true]
